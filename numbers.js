@@ -8,3 +8,6 @@ console.log(`Minmum Value: ${Number.MIN_VALUE}`);
 console.log(`Minmum Safe Integer: ${Number.MIN_SAFE_INTEGER}`);
 console.log(`Maximum Value: ${Number.MAX_VALUE}`);
 console.log(`Maximum Safe Integer: ${Number.MAX_SAFE_INTEGER}`);
+
+let bigInt1 = 1n;
+let bigInt2 = 1_560_000_000_000n;
